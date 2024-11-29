@@ -11,6 +11,7 @@
 - Top 5 Products by Revenue
 - Identify which months sales growth is increasing by checking with previous year.
 - Identify the markets which sales are very low.
+![Screenshot 2024-11-29 115715](https://github.com/user-attachments/assets/1ee767c8-6f9b-4157-8d4d-526dd21c022d)
 
 
 ## Analysis Tools Used
