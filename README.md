@@ -21,7 +21,7 @@ SQL
 ## Data Cleaning and Preparation
 In the initial Data Cleaning and Preparation Phase, i performed the following tasks:
 1. Imported the data using power query from mysql server.
-2. Made some trnasformation and created calculated columns inside power query
+2. Made some transformation and created calculated columns inside power query
 3. Visualized the data using power BI
 
 ## Exploratory Data Analysis
@@ -33,7 +33,6 @@ EDA involves exploring the Sales Data to answer key questions, such as:
 - What are our top 5 Products
 - What are the variations in revenue by markets
 ![Screenshot 2024-11-29 115742](https://github.com/user-attachments/assets/c0d99a1e-406b-4c88-94f2-d6e99b77c644)
-![Screenshot 2024-11-29 115715](https://github.com/user-attachments/assets/0acc1576-1bb0-4a67-b8fe-d02cf8f9f518)
 ![Screenshot 2024-11-29 115927](https://github.com/user-attachments/assets/86f3b8e6-e73f-4f65-939f-86419b32a3d8)
 
   
